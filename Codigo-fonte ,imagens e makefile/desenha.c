@@ -9,6 +9,8 @@
 #include <time.h>
 #include "texto.h"
 
+//comentario
+
 #define PI 3.14159265
 
 void inicializaTexturas(GLuint *texturaBodao,GLuint *texturaFogo,GLuint *texturaBG,GLuint *texturaCaneca){//mapeia texturas do jogo
